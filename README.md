@@ -14,7 +14,7 @@ Originally developed as a standlone module.
 
 The module allows for UART passthrough mode and a rudimentary UART baud scan, when used alongside a physical FTDI cable.
 
-The ExploitToolFinder Utility [by exploitsecurity.io] is intended to assist security researchers in their quest to find the right tool for the job. 
+The ExploitToolFinder Utility is intended to assist security researchers in their quest to find the right tool for the job. 
 
 Using a menu driven system and OPENAI, this tool trawls the internet for currently published software tools used by the community.
 
