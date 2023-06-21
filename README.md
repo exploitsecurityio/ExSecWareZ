@@ -1,6 +1,4 @@
-![exsecwarez](https://github.com/exploitsecurityio/ExSecWareZ/assets/131332424/37c71b12-a934-4710-b461-a1a01e857e7e)
-
-![exsecwarez](https://github.com/exploitsecurityio/ExSecWareZ/assets/131332424/6250525c-3f67-498c-ac93-f76aa7bd2f43)
+![exsecwarez-combined](https://github.com/exploitsecurityio/ExSecWareZ/assets/131332424/ca3fcd5a-d050-4d9a-8b21-a4419edf19cc)
 
 This toolset incorporates an all round utility envisaged to be used by security researchers in the field. 
 
