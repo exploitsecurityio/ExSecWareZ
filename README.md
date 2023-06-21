@@ -57,6 +57,14 @@ python3 exsecwarez.py
 
 <p align="left">Fig 1. Main Menu</p>
 
+![exploittoolfinder](https://github.com/exploitsecurityio/ExSecWareZ/assets/131332424/6677364c-7453-4191-aff2-6651596127e4)
+
+<p align="left">Fig 2. Exploit Tool Finder Menu</p>
+
+![uart-exploiter-menu](https://github.com/exploitsecurityio/ExSecWareZ/assets/131332424/371fe8cc-6144-4b3f-9e1a-7c27c3ada889)
+
+<p align="left">Fig 3. UART Exploiter Menu</p>
+
 # Contact
 
 Web: www.exploitsecurity.io
