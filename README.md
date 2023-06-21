@@ -10,7 +10,7 @@ ExploitToolFinder - Scowers the internet for commonly used software tools.
 
 The UART-Exploiter module, developed in python, is designed to be used by Security Researchers who require quick access to a UART interface using an physical FTDI cable. 
 
-Originally developed as a standlone module, however further development is underway to incorporate this into a much larger Exploit Security Toolkit in the future. 
+Originally developed as a standlone module.
 
 The module allows for UART passthrough mode and a rudimentary UART baud scan, when used alongside a physical FTDI cable.
 
